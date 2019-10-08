@@ -27,7 +27,7 @@ public class CommodityServiceImpl  implements CommodityService {
 
         commodityMapper.insertSelective(commodity);
         int i = Integer.parseInt(commodity.getCom_id());
-
+        System.out.println("插入的id为"+i);
         return i;
     }
 

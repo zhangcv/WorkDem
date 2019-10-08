@@ -1,6 +1,7 @@
 package com.example.demo.service;
 
 import com.example.demo.entity.Commodity;
+import org.apache.ibatis.annotations.Insert;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -11,6 +12,7 @@ import java.util.List;
 
 public interface CommodityService {
 
+    
     int insert(Commodity commodity);
 
     int delete(Long id);
