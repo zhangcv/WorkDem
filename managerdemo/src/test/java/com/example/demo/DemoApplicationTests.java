@@ -15,7 +15,7 @@ import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.context.WebApplicationContext;
-
+import tk.mybatis.spring.annotation.MapperScan;
 
 
 @RunWith(SpringRunner.class)
@@ -67,7 +67,7 @@ public class DemoApplicationTests {
 
     @Test
     public void findOne() throws Exception {
-        String com = mockMvc.perform(MockMvcRequestBuilders.get(oneUrl,1))
+        String com = mockMvc.perform(MockMvcRequestBuilders.get(oneUrl,2))
                 .andReturn().getResponse().getContentAsString();
         LOGGER.info("book:{}",com);
     }
@@ -82,7 +82,7 @@ public class DemoApplicationTests {
     @Test
     public void update() throws Exception {
         final MultiValueMap<String,String> params = new LinkedMultiValueMap<>();
-        params.add("com_id","1");
+        params.add("com_id","4");
         params.add("com_name","华为手机");
         params.add("com_price","3500");
         params.add("com_description","价格公道");
@@ -95,7 +95,7 @@ public class DemoApplicationTests {
     @Test
     public void patch() throws Exception {
         final MultiValueMap<String,String> params = new LinkedMultiValueMap<>();
-        params.add("com_id","1");
+        params.add("com_id","2");
         params.add("com_name","华为Mate30Pro");
         String content = mockMvc.perform(MockMvcRequestBuilders.patch(updateNameUrl).params(params))
                 .andReturn().getResponse().getContentAsString();
@@ -104,7 +104,7 @@ public class DemoApplicationTests {
 
     @Test
     public void delete() throws Exception {
-        String content = mockMvc.perform(MockMvcRequestBuilders.delete(deleteUrl, "1"))
+        String content = mockMvc.perform(MockMvcRequestBuilders.delete(deleteUrl, "7"))
                 .andReturn().getResponse().getContentAsString();
         LOGGER.info("content:{}", content);
     }

@@ -1,13 +1,15 @@
 package com.cml.project.project4;
 
 
-import java.io.InputStream;
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 /**
  * Creacted by jack on 2019/9/29 17:09
  **/
+
+/**
+ * 输入 abc def 返回
+ */
 public class Test004 {
     public static void main(String[] args) {
 
