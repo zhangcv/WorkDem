@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="emp@localhost">
-  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.14">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.17">
     <root id="1">
       <ServerVersion>5.5.29</ServerVersion>
       <DefaultEngine>InnoDB</DefaultEngine>
@@ -9,7 +9,6 @@
     </root>
     <schema id="2" parent="1" name="emp">
       <Current>1</Current>
-      <Visible>1</Visible>
       <Collation>utf8_general_ci</Collation>
     </schema>
     <schema id="3" parent="1" name="gmall_study">
@@ -830,61 +829,5 @@
       <Charset>utf8mb4</Charset>
       <DefaultForCharset>0</DefaultForCharset>
     </collation>
-    <table id="210" parent="2" name="commodity"/>
-    <table id="211" parent="2" name="emp"/>
-    <column id="212" parent="210" name="com_id">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-      <NotNull>1</NotNull>
-      <SequenceIdentity>1</SequenceIdentity>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="213" parent="210" name="com_name">
-      <Position>2</Position>
-      <DataType>varchar(255)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="214" parent="210" name="com_price">
-      <Position>3</Position>
-      <DataType>int(11)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="215" parent="210" name="com_description">
-      <Position>4</Position>
-      <DataType>varchar(255)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <key id="216" parent="210" name="PRIMARY">
-      <NameSurrogate>1</NameSurrogate>
-      <ColNames>com_id</ColNames>
-      <Primary>1</Primary>
-    </key>
-    <column id="217" parent="211" name="id">
-      <Position>1</Position>
-      <DataType>int(10)|0s</DataType>
-      <NotNull>1</NotNull>
-      <SequenceIdentity>1</SequenceIdentity>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="218" parent="211" name="name">
-      <Position>2</Position>
-      <DataType>varchar(20)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="219" parent="211" name="salary">
-      <Position>3</Position>
-      <DataType>double(20)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="220" parent="211" name="age">
-      <Position>4</Position>
-      <DataType>int(20)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <key id="221" parent="211" name="PRIMARY">
-      <NameSurrogate>1</NameSurrogate>
-      <ColNames>id</ColNames>
-      <Primary>1</Primary>
-    </key>
   </database-model>
 </dataSource>

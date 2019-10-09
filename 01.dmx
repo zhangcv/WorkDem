@@ -16,6 +16,22 @@
   <OrderNo>1</OrderNo>
   <DefDbEngine>MYSQL</DefDbEngine>
   <DbConnectStr>TCtMetaMysqlDb</DbConnectStr>
+  <ConfigStr>DrawerWidth=1500
+DrawerHeight=2880
+WorkAreaColor=16777215
+SelectedColor=-16777203
+DefaultObjectColor=15921906
+DefaultTitleColor=255
+DefaultPKColor=16711935
+DefaultFKColor=16711680
+DefaultBorderColor=12632256
+DefaultLineColor=16711680
+ShowFieldType=1
+ShowFieldIcon=1
+ShowPhyFieldName=2
+DatabaseEngine=
+GenFKIndexesSQL=0
+</ConfigStr>
 </DataModels_item1>
 
 
@@ -3175,8 +3191,8 @@ Top=910.00</GraphDesc>
   <CreateDate>1899/12/30</CreateDate>
   <ModifyDate>1899/12/30</ModifyDate>
   <OrderNo>19</OrderNo>
-  <GraphDesc>Left=1130.00
-Top=910.00</GraphDesc>
+  <GraphDesc>Left=1172.00
+Top=912.00</GraphDesc>
 </DataModels_item1_item0_item19>
 
 
@@ -4476,8 +4492,8 @@ Top=1310.00</GraphDesc>
   <CreateDate>1899/12/30</CreateDate>
   <ModifyDate>1899/12/30</ModifyDate>
   <OrderNo>27</OrderNo>
-  <GraphDesc>Left=290.00
-Top=1310.00</GraphDesc>
+  <GraphDesc>Left=370.00
+Top=1314.00</GraphDesc>
 </DataModels_item1_item0_item27>
 
 
@@ -4891,8 +4907,8 @@ Top=1510.00</GraphDesc>
   <CreateDate>1899/12/30</CreateDate>
   <ModifyDate>1899/12/30</ModifyDate>
   <OrderNo>30</OrderNo>
-  <GraphDesc>Left=535.00
-Top=1510.00</GraphDesc>
+  <GraphDesc>Left=631.00
+Top=1512.00</GraphDesc>
 </DataModels_item1_item0_item30>
 
 

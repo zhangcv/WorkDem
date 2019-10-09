@@ -17,6 +17,7 @@ public interface CommodityService {
 
     int delete(Long id);
 
+
     int update(Commodity commodity);
 
     int updateName(Commodity commodity);

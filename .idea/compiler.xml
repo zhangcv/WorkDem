@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
         <module name="managerdemo" />
+        <module name="demo" />
+        <module name="demo (1) (com.example)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo (1) (com.example)" options="-parameters" />
       <module name="demo001" options="-parameters" />
       <module name="manager-demo" options="-parameters" />
       <module name="managerdemo" options="-parameters" />

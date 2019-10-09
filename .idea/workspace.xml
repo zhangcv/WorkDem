@@ -1,20 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3fec591b-678d-440a-a90c-49f79e650321" name="Default Changelist" comment="无">
+      <change afterPath="$PROJECT_DIR$/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/managerdemo/src/test/java/com/example/demo/easyExcel/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_lambda/Musicians.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect1/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect1/NewInstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect1/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect2/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect2/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect2/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect3/FieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect3/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect3/OtherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect3/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect4/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_reflect4/StaticProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jdk8test/EmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juc/demo201904/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juc/demo201904/ConditionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juc/demo201904/MyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juc/demo201904/ProdConsumerDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juc/demo201904/ProdConsumerDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juc/demo201906/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juc/demo201906/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juc/demo201906/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juc/demo201906/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc1.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c92e8bb-bfd5-4b15-9f4b-d6f80669d023.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8c92e8bb-bfd5-4b15-9f4b-d6f80669d023.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/managerdemo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/managerdemo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.dmx" beforeDir="false" afterPath="$PROJECT_DIR$/01.dmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.dmx.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/01.dmx.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/managerdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/managerdemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/mapper/CommodityMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/mapper/CommodityMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/service/CommodityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/service/CommodityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cml/project/project1/Test001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_first/project1/Test001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cml/project/project2/Test002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_first/project2/Test002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cml/project/project3/Test003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_first/project3/Test003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cml/project/project4/Test004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_first/project4/Test004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cml/project/project5/Test005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_first/project5/Test005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cml/project/project6/Test006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_first/project6/Test006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cml/project/project7/Test007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_first/project7/Test007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cml/project/project8/Test008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_first/project8/Test008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cml/project/project9/Test009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cml/project_first/project9/Test009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/demo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project1/Test001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project2/Test002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project3/Test003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project4/Test004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project5/Test005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project6/Test006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project7/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project7/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project7/Test007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project8/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project8/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project8/Test008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project8/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project9/Door.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project9/Test009.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project9/TheftProof.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project9/bulletproof.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project9/man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cml/project/project9/waterproof.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/demo001/target/" />
-    <ignored path="$PROJECT_DIR$/managerdemo/target/" />
-    <ignored path="$PROJECT_DIR$/manager-demo/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/demo$DemoApplicationTests_findOne.ic" NAME="DemoApplicationTests.findOne Coverage Results" MODIFIED="1570516394585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -58,94 +127,23 @@
     </expand>
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/managerdemo/src/test/java/com/example/demo/DemoApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/managerdemo/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/managerdemo/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/managerdemo/target/classes/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+  <component name="FavoritesManager">
+    <favorites_list name="demo" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="AnnotationType" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/demo001/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/demo001/src/main/java/com/example/demo/IndexController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project1/Test001.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project2/Test002.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project3/Test003.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project5/Test005.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project6/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project6/project6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project6/Test006.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project8/Test008.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project7/Test007.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project9/Test009.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/resources/mapper/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/service/commodityService.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/entity/commodity.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/controller/commodityController.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/function/ResultCode.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/entity/Result.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/function/ResultBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cml/project/project4/Test004.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/resources/mapper/CommodityMapper.xml" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/DemoApplication.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/service/CommodityService.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/mapper/CommodityMapper.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/service/impl/CommodityServiceImpl.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/entity/Commodity.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/controller/CommodityController.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/function/JasyptTest.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/test/java/com/example/demo/DemoApplicationTests.java" />
-        <option value="$PROJECT_DIR$/managerdemo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/managerdemo/pom.xml" />
-        <option value="$PROJECT_DIR$/managerdemo/.gitignore" />
-      </list>
-    </option>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -155,51 +153,18 @@
         <option name="userSettingsFile" value="D:\maven361\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="844" />
-    <option name="y" value="21" />
-    <option name="width" value="1089" />
-    <option name="height" value="928" />
-  </component>
+  <component name="ProjectId" id="1UHCKpRJYLHq5oumU1a9K3by2fE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <flattenPackages ProjectPane="false" />
-      <hideEmptyPackages ProjectPane="false" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="managerdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
@@ -207,129 +172,175 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/managerdemo/src/main/resources/application.yml" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/main/java/com/cml/project_first/project4/Test004.java&#10;true&#10;D:/javaworkspace1/demo/src/main/java/com/cml/project_WHLTxtParse/WHLTest.java&#10;D:/javaworkspace1/demo/src/main/java/com/cml/testBean.java&#10;D:/javaworkspace1/demo/managerdemo/src/main/resources/application.yml" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570590947308" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574325830322" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.57427716" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cml.project_lambda" />
+      <recent name="com.cml" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaworkspace1\demo" />
       <recent name="D:\javaworkspace1\demo\managerdemo\src\main\resources\mapper" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.easyExcel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaworkspace1\demo\src\main\java\com\cml\project_WHLTxtParse" />
+      <recent name="D:\javaworkspace1\demo\src\main\resources" />
+      <recent name="D:\javaworkspace1\demo\src\main\java" />
+      <recent name="D:\javaworkspace1\demo\src" />
+      <recent name="D:\javaworkspace1\demo\src\main" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 7 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 7 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="demo (1) (com.example)" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
-  <component name="RunManager" selected="JUnit.DemoApplicationTests.findAll">
-    <configuration name="DemoApplicationTests.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="managerdemo" />
+  <component name="RunManager" selected="JUnit.Test.test02">
+    <configuration name="StreamAPITestIntermediate.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.jdk8test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
-      <option name="METHOD_NAME" value="findAll" />
+      <option name="PACKAGE_NAME" value="com.jdk8test" />
+      <option name="MAIN_CLASS_NAME" value="com.jdk8test.StreamAPITestIntermediate" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplicationTests.findOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="managerdemo" />
+    <configuration name="StreamAPITest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.jdk8test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
-      <option name="METHOD_NAME" value="findOne" />
+      <option name="PACKAGE_NAME" value="com.jdk8test" />
+      <option name="MAIN_CLASS_NAME" value="com.jdk8test.StreamAPITest" />
+      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplicationTests.testDe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="managerdemo" />
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo (1) (com.example)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.demo.easyExcel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
-      <option name="METHOD_NAME" value="testDe" />
+      <option name="PACKAGE_NAME" value="com.example.demo.easyExcel" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.easyExcel.Test" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo (1) (com.example)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.easyExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.easyExcel" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.easyExcel.Test" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplicationTests.testEncrypt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="managerdemo" />
+    <configuration name="Test.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo (1) (com.example)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.demo.easyExcel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
-      <option name="METHOD_NAME" value="testEncrypt" />
+      <option name="PACKAGE_NAME" value="com.example.demo.easyExcel" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.easyExcel.Test" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="managerdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.StreamAPITest.test4" />
+      <item itemvalue="JUnit.StreamAPITestIntermediate.test1" />
+      <item itemvalue="JUnit.Test.test01" />
+      <item itemvalue="JUnit.Test.test02" />
+      <item itemvalue="JUnit.Test" />
       <item itemvalue="Spring Boot.DemoApplication" />
-      <item itemvalue="JUnit.DemoApplicationTests.testEncrypt" />
-      <item itemvalue="JUnit.DemoApplicationTests.testDe" />
-      <item itemvalue="JUnit.DemoApplicationTests.findAll" />
-      <item itemvalue="JUnit.DemoApplicationTests.findOne" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DemoApplicationTests.findAll" />
-        <item itemvalue="JUnit.DemoApplicationTests.findOne" />
-        <item itemvalue="JUnit.DemoApplicationTests.testDe" />
-        <item itemvalue="JUnit.DemoApplicationTests.testEncrypt" />
-        <item itemvalue="Spring Boot.DemoApplication" />
+        <item itemvalue="JUnit.Test.test02" />
+        <item itemvalue="JUnit.Test" />
+        <item itemvalue="JUnit.Test.test01" />
+        <item itemvalue="JUnit.StreamAPITestIntermediate.test1" />
+        <item itemvalue="JUnit.StreamAPITest.test4" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SshConsoleOptionsProvider">
     <option name="myEncoding" value="UTF-8" />
@@ -364,7 +375,43 @@
       <workItem from="1570524339810" duration="23000" />
       <workItem from="1570524390039" duration="2616000" />
       <workItem from="1570528091622" duration="1444000" />
-      <workItem from="1570584201538" duration="5685000" />
+      <workItem from="1570584201538" duration="8507000" />
+      <workItem from="1570609625236" duration="201000" />
+      <workItem from="1570614014177" duration="353000" />
+      <workItem from="1571632295714" duration="1266000" />
+      <workItem from="1571640812273" duration="1656000" />
+      <workItem from="1571711171391" duration="8311000" />
+      <workItem from="1571722467211" duration="16060000" />
+      <workItem from="1571792404988" duration="1690000" />
+      <workItem from="1571795211631" duration="4021000" />
+      <workItem from="1571801107389" duration="1406000" />
+      <workItem from="1571989539375" duration="2452000" />
+      <workItem from="1571994608106" duration="844000" />
+      <workItem from="1572226965399" duration="596000" />
+      <workItem from="1572229005108" duration="21303000" />
+      <workItem from="1572272600641" duration="1025000" />
+      <workItem from="1572310851317" duration="8659000" />
+      <workItem from="1572334739746" duration="3909000" />
+      <workItem from="1572343707164" duration="639000" />
+      <workItem from="1572400216129" duration="18000" />
+      <workItem from="1572404078498" duration="4897000" />
+      <workItem from="1572411139197" duration="432000" />
+      <workItem from="1572411630014" duration="89000" />
+      <workItem from="1572411747206" duration="10053000" />
+      <workItem from="1572427914714" duration="2032000" />
+      <workItem from="1572441378774" duration="1877000" />
+      <workItem from="1572500384364" duration="5932000" />
+      <workItem from="1574319645825" duration="2786000" />
+      <workItem from="1575003362508" duration="173000" />
+      <workItem from="1575004077967" duration="418000" />
+      <workItem from="1575004791785" duration="88000" />
+      <workItem from="1575004898074" duration="62000" />
+      <workItem from="1575004978316" duration="34000" />
+      <workItem from="1575005306562" duration="323000" />
+      <workItem from="1575425650903" duration="9723000" />
+      <workItem from="1576498518268" duration="8730000" />
+      <workItem from="1576507863945" duration="1183000" />
+      <workItem from="1576545032758" duration="2571000" />
     </task>
     <task id="LOCAL-00001" summary="修改Test004,&#10;修正125 359.4 不应该进行浮点数运算&#10;增加了新的if条件">
       <created>1570505561307</created>
@@ -415,83 +462,31 @@
       <option name="project" value="LOCAL" />
       <updated>1570590666470</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="无">
+      <created>1570590966480</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570590966480</updated>
+    </task>
+    <task id="LOCAL-00009" summary="无">
+      <created>1570591044799</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570591044799</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="DemoApplicationTests_testDe - 2019.10.09 at 10h 16m 24s.xml">
-      <configuration name="DemoApplicationTests.testDe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoApplicationTests_testEncrypt - 2019.10.09 at 10h 16m 43s.xml">
-      <configuration name="DemoApplicationTests.testEncrypt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoApplicationTests_testDe - 2019.10.09 at 10h 17m 57s.xml">
-      <configuration name="DemoApplicationTests.testDe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoApplicationTests_testEncrypt - 2019.10.09 at 10h 18m 53s.xml">
-      <configuration name="DemoApplicationTests.testEncrypt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoApplicationTests_findAll - 2019.10.09 at 10h 19m 46s.xml">
-      <configuration name="DemoApplicationTests.findAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoApplicationTests_testDe - 2019.10.09 at 10h 20m 42s.xml">
-      <configuration name="DemoApplicationTests.testDe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoApplicationTests_findOne - 2019.10.09 at 10h 21m 16s.xml">
-      <configuration name="DemoApplicationTests.findOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoApplicationTests_findOne - 2019.10.09 at 10h 21m 34s.xml">
-      <configuration name="DemoApplicationTests.findOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoApplicationTests_findOne - 2019.10.09 at 10h 23m 17s.xml">
-      <configuration name="DemoApplicationTests.findOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoApplicationTests_findAll - 2019.10.09 at 10h 23m 33s.xml">
-      <configuration name="DemoApplicationTests.findAll" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60372000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="844" y="21" width="1089" height="928" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24003887" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36191538" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.16258352" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23246753" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.38311687" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32739422" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49814814" visible="true" weight="0.31584063" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32983872" />
-      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50185186" side_tool="true" weight="0.17324094" />
-    </layout>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -502,21 +497,22 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -528,16 +524,148 @@
     <MESSAGE value="无" />
     <option name="LAST_COMMIT_MESSAGE" value="无" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="388" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1575005010422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="388" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575005010422" />
+    <state x="1258" y="270" key="#com.intellij.ide.util.MemberChooser" timestamp="1575430311773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1258" y="270" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575430311773" />
+    <state x="689" y="293" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1575426056806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="293" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575426056806" />
+    <state x="593" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576499436036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576499436036" />
+    <state x="719" y="386" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1576499438089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="386" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1576499438089" />
+    <state x="505" y="22" key="CommitChangelistDialog2" timestamp="1575425964388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="22" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575425964388" />
+    <state x="184" y="84" key="DiffContextDialog" timestamp="1575425908282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="84" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575425908282" />
+    <state x="735" y="260" key="FileChooserDialogImpl" timestamp="1576500192187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576500192187" />
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1576569959706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576569959706" />
+    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1576569959706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576569959706" />
+    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1576569959706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576569959706" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1576569959706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576569959706" />
+    <state width="1877" height="358" key="GridCell.Tab.1.bottom" timestamp="1576569959707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576569959707" />
+    <state width="1877" height="358" key="GridCell.Tab.1.center" timestamp="1576569959707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576569959707" />
+    <state width="1877" height="358" key="GridCell.Tab.1.left" timestamp="1576569959707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576569959707" />
+    <state width="1877" height="358" key="GridCell.Tab.1.right" timestamp="1576569959707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576569959707" />
+    <state x="1033" y="288" key="IDE.errors.dialog" timestamp="1575438266146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1033" y="288" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575438266146" />
+    <state x="490" y="173" key="Maven.ArtifactSearchDialog" timestamp="1576500041080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="173" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576500041080" />
+    <state x="673" y="143" key="RollbackChangesDialog" timestamp="1576506777101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="143" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576506777101" />
+    <state x="275" y="171" width="1244" height="739" key="SettingsEditor" timestamp="1576500194194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="275" y="171" width="1244" height="739" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576500194194" />
+    <state x="1174" y="300" width="579" height="540" key="StructurePopup" timestamp="1575430199441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1174" y="300" width="579" height="540" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1575430199441" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575004795588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575004795588" />
+    <state x="620" y="238" width="679" height="564" key="find.popup" timestamp="1576503316178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="238" width="679" height="564" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576503316178" />
+    <state x="1195" y="176" key="refactoring.ChangeSignatureDialog" timestamp="1575428444103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1195" y="176" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575428444103" />
+    <state x="1109" y="260" key="run.anything.popup" timestamp="1575427591461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1109" y="260" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575427591461" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/service/CommodityService.java</url>
-          <line>23</line>
+          <line>24</line>
           <properties class="com.example.demo.service.CommodityService" method="findOne">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cml/project_reflect3/ReflectionTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cml/project_reflect2/Person.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cml/project_WHLTxtParse/WHLTest.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cml/project_lambda/Lambda.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/managerdemo/src/test/java/com/example/demo/easyExcel/TrafficVehicleInformationService.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/managerdemo/src/test/java/com/example/demo/easyExcel/Test.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -545,286 +673,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo001/src/main/java/com/example/demo/DemoApplication.java" />
-    <entry file="file://$PROJECT_DIR$/demo001/src/main/java/com/example/demo/IndexController.java" />
-    <entry file="file://$PROJECT_DIR$/demo001/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project1/Test001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="method#LengthNum#0;class#Test001#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project6/Student.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project8/Test008.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project9/Test009.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1028#1029#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/66fedbac-bb06-4db9-b31f-0488c19b1df2/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8c92e8bb-bfd5-4b15-9f4b-d6f80669d023/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project2/Test002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="docComment;method#fei#0;class#Test002#0" />
-            <element signature="docComment;method#fei2#0;class#Test002#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project5/Test005.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project7/Test007.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project3/Test003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-618">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#quickSort#0;class#Test003#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project6/Test006.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.1.9.RELEASE/spring-jdbc-5.1.9.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-998">
-          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cml/project/project4/Test004.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-spring-boot-autoconfigure/1.2.3/mapper-spring-boot-autoconfigure-1.2.3-sources.jar!/tk/mybatis/spring/mapper/SpringBootBindUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/resources/mapper/CommodityMapper.xml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.0.1/mapper-base-1.0.1.jar!/tk/mybatis/mapper/common/base/insert/InsertSelectiveMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/service/CommodityService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/mapper/CommodityMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/entity/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/function/ResultCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/controller/CommodityController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#1217#1218#0" expanded="true" />
-            <element signature="e#1301#1302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/entity/Commodity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/function/ResultBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-          <folding>
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/function/JasyptTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/java/com/example/demo/service/impl/CommodityServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/test/java/com/example/demo/DemoApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="68" column="14" lean-forward="true" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/target/classes/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managerdemo/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -858,7 +706,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.57427716" />
               </list>
             </option>
           </splitter-proportions>
@@ -882,7 +730,8 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.57427716" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
