@@ -26,7 +26,7 @@ public class CommodityServiceImpl  implements CommodityService {
     public int insert(Commodity commodity) {
 
         commodityMapper.insertSelective(commodity);
-        int i = Integer.parseInt(commodity.getCom_id());
+        int i = Integer.parseInt(commodity.getComId());
         System.out.println("插入的id为"+i);
         return i;
     }
@@ -55,7 +55,7 @@ public class CommodityServiceImpl  implements CommodityService {
     @Override
     public Commodity findOne(Long id) {
         Commodity commodity =new Commodity();
-        commodity.setCom_id(id.toString());
+        commodity.setComId(id.toString());
         Commodity commodityResult = commodityMapper.selectOne(commodity);
         return commodityResult;
     }
@@ -63,7 +63,7 @@ public class CommodityServiceImpl  implements CommodityService {
     @Override
     public List<Commodity> findAll() {
         Commodity commodity =new Commodity();
-        commodity.setCom_id(null);
+        commodity.setComId(null);
         List<Commodity> commodities = commodityMapper.selectAll();
         return commodities;
     }

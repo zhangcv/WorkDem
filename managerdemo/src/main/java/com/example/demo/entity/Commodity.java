@@ -2,6 +2,9 @@ package com.example.demo.entity;
 
 
 import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
 
 import javax.persistence.Column;
 import javax.persistence.GeneratedValue;
@@ -12,17 +15,18 @@ import java.io.Serializable;
 /**
  * Creacted by jack on 2019/9/30 11:39
  **/
-@Data
+@Getter
+@Setter
 public class Commodity implements Serializable {
 
     @Id
     @Column
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    public String com_id;
+    public String comId;
     @Column
-    public String com_name;
+    public String comName;
     @Column
-    public String com_price;
+    public String comPrice;
     @Column
-    public String com_description;
+    public String comDescription;
 }

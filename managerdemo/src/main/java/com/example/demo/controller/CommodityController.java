@@ -48,10 +48,10 @@ public class CommodityController {
     @GetMapping("/test")
     public Result<Commodity> selectOne(){
         Commodity commodity = new Commodity();
-        commodity.setCom_id("15");
-        commodity.setCom_name("华为手机");
-        commodity.setCom_price("4000");
-        commodity.setCom_description("真的很好的一款手机");
+        commodity.setComId("15");
+        commodity.setComName("华为手机");
+        commodity.setComPrice("4000");
+        commodity.setComDescription("真的很好的一款手机");
         return ResultBean.success(commodity,"success");
     }
 }
