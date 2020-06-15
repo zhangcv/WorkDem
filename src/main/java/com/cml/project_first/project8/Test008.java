@@ -19,20 +19,24 @@ interface Vehicle {
 }
 
 class Bike implements Vehicle {
+    @Override
     public void start() {
         System.out.println("自行车起步");
     }
 
+    @Override
     public void stop(String cars) {
         System.out.println("自行车停车");
     }
 }
 
 class Bus implements Vehicle {
+    @Override
     public void start() {
         System.out.println("公交车起步");
     }
 
+    @Override
     public void stop(String cars) {
         System.out.println("公交车停车");
     }
